@@ -1,0 +1,31 @@
+{
+  "name": "amqp-rpc",
+  "version": "0.0.1",
+  "dependencies": {
+    "amqp": {
+      "version": "0.2.6",
+      "from": "amqp@latest",
+      "resolved": "https://registry.npmjs.org/amqp/-/amqp-0.2.6.tgz"
+    },
+    "async": {
+      "version": "2.1.4",
+      "from": "async@latest",
+      "resolved": "http://192.168.1.145:4873/async/-/async-2.1.4.tgz"
+    },
+    "events": {
+      "version": "1.1.1",
+      "from": "events@latest",
+      "resolved": "https://registry.npmjs.org/events/-/events-1.1.1.tgz"
+    },
+    "lodash": {
+      "version": "4.17.4",
+      "from": "lodash@>=4.0.0 <5.0.0",
+      "resolved": "http://192.168.1.145:4873/lodash/-/lodash-4.17.4.tgz"
+    },
+    "node-uuid": {
+      "version": "1.4.7",
+      "from": "node-uuid@latest",
+      "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz"
+    }
+  }
+}

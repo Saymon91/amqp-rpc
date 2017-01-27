@@ -1,0 +1,29 @@
+{
+  "name": "amqp-rpc",
+  "version": "0.0.1",
+  "description": "Library from using rabbitmq from rpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saymon91/amqp-rpc.git"
+  },
+  "keywords": [
+    "amqp",
+    "rpc"
+  ],
+  "author": "Simon Zhuravlev (Saymon91@mail.ru)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saymon91/amqp-rpc/issues"
+  },
+  "homepage": "https://github.com/Saymon91/amqp-rpc#readme",
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "async": "^2.1.4",
+    "events": "^1.1.1",
+    "node-uuid": "^1.4.7"
+  }
+}
